@@ -2,7 +2,7 @@
 The purpose of this analysis was to be analyze the entire stock dataset. Using the previous information for the basket of stocks, I was able to refactor the code to handle a higher number of data. Using this I'll be able to quickly give stock performance on a large number of stocks.
 
 ## Results of the Analysis
-![]https://github.com/pbarana89/VBA_Challenge/blob/main/Images/2017_Stocks.PNG)
+![]https://github.com/pbarana89/VBA_Challenge/blob/main/Images/2017_Stocks.PNG
 
 - Almost all the stocks performed incredibly well in 2017 with only TEPR having a negative performance and many of the stocks having returns of over 100%. Unless they were in a sector that had a negative correlation to the whole stock market, it could very well be inferred that the stock market as a whole performed very well.
 
@@ -16,3 +16,4 @@ The purpose of this analysis was to be analyze the entire stock dataset. Using t
 
 ### Summary of Analysis
 - Refactoring can be a great tool to help a person understand and maintain code. It can help someone understand the code better or help the design. The disadvantages that come with refactoring is you can have opportunities to create new problems as you change things. This could lead you to spend more time fixing a problem you've created and can eat into your budget or time set aside and if you're working on a deadline that could be a huge issue. Specifically in this module, I had to come back to this code months later, just because I was running into issues from refactoring and I had to prioritize other parts of my class. 
+ 
